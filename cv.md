@@ -33,6 +33,7 @@ console.log(functionVir('Still'))
 ### EDUCATION
 
 BNTU - energy engineering
+RS School JS/FE Pre-School 2024Q2 (in progress)
 
 ### LANGUAGES
 
