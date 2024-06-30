@@ -24,12 +24,14 @@ email: annagolenkovay@gmail.com
 ***
 ### CODE EXAMPLE
 ~~~
+
 const functionVir = function (name) {
    return 'Привет, ' + name
 }
 
 console.log(functionVir('Don'))
 console.log(functionVir('Still'))
+
 ~~~
 ***
 ### EDUCATION
